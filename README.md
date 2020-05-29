@@ -22,12 +22,24 @@ Randomly selected data for the first six months of 2017 are provided for all thr
  End Station (e.g., Sedgwick St & North Ave)
  User Type (Subscriber or Customer)
 
+ ### Project Submission
+The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database.
+ The user is able filter the information by city, month and weekday,
+ in order to visualize statistics information related to a specific subset of data.
+ The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
+
+[Project Submission](https://github.com/yeafi13/pdsnd_github.git)
+
+### Softwares needed:
+Python , NumPy, and Pandas installed using Anaconda,A text editor, like VS Code or Atom.,A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
 ### Credits
 This project was done as part of Udacity's Nanodegree - Programming for Data Science with Python. Starter code, instructions and clean datasets were provided by Udacity.
 * Richard Kalehoff (Udacity mentor)
 * Juno Lee (Udacity Mentor)
 
+### The Datasets
+The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for all three cities. 
 
 ### Softwares needed:
 Python , NumPy, and Pandas installed using Anaconda,A text editor, like VS Code or Atom.,A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
