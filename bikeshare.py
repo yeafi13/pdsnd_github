@@ -24,6 +24,7 @@ def get_day():
     return day
 #definition of filters function
 def get_filters():
+	print(" The actual changes made don't matter for this project")
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, New York City, Washingon)
     city_option=['chicago','new york city','washington']
@@ -216,3 +217,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+	
