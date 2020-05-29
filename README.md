@@ -6,7 +6,8 @@ US-Bikeshare-Data
 
 ### Description
 In this project, I used Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
-
+I import the data from csv files containing data for each city and answerd important questions about it by computing descriptive statistics.
+It provides an interactive experience for users such that they can decide how to filter the data.
 
 ### Files used
 Randomly selected data for the all three cities in .csv format ('chicago.csv'; 'new_york_city.csv'; 'washington.csv').These datas are already given.
