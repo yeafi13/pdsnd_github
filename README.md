@@ -47,4 +47,10 @@ Python , NumPy, and Pandas installed using Anaconda,A text editor, like VS Code 
 ### The Datasets
 The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for all three cities. 
 
+#### Requirements
+This program was written in Python (version 3.7.1) and relies on the following libraries:
+
+* pandas==0.23.4
+* numpy==1.15.4
+
 
