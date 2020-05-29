@@ -17,6 +17,14 @@ This project was done as part of Udacity's Nanodegree - Programming for Data Sci
 * Richard Kalehoff (Udacity mentor)
 * Juno Lee (Udacity Mentor)
 
+### Project Submission
+
+The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database.
+ The user is able filter the information by city, month and weekday,
+ in order to visualize statistics information related to a specific subset of data.
+ The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
+
+[Project Submission](https://github.com/yeafi13/pdsnd_github.git)
 
 ### Softwares needed:
 Python , NumPy, and Pandas installed using Anaconda,A text editor, like VS Code or Atom.,A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
