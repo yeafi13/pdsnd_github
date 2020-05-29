@@ -12,3 +12,5 @@ Randomly selected data for the all three cities in .csv format ('chicago.csv'; '
 
 ### Credits
 This project was done as part of Udacity's Nanodegree - Programming for Data Science with Python. Starter code, instructions and clean datasets were provided by Udacity.
+*Richard Kalehoff (Udacity mentor)
+*Juno Lee (Udacity Mentor)
