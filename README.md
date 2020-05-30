@@ -17,10 +17,10 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 
 * Start Time (e.g., 2017-01-01 00:07:57)
 * End Time (e.g., 2017-01-01 00:20:53)
- Trip Duration (in seconds - e.g., 776)
- Start Station (e.g., Broadway & Barry Ave)
- End Station (e.g., Sedgwick St & North Ave)
- User Type (Subscriber or Customer)
+* Trip Duration (in seconds - e.g., 776)
+* Start Station (e.g., Broadway & Barry Ave)
+* End Station (e.g., Sedgwick St & North Ave)
+* User Type (Subscriber or Customer)
 
  ### Project Submission
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database.
